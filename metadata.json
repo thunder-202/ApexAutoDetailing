@@ -1,0 +1,6 @@
+{
+  "name": "Apex Auto Detailing",
+  "description": "Modern, responsive landing page for Apex Auto Detailing - Premium car wash and detailing studio in Parramatta NSW.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
